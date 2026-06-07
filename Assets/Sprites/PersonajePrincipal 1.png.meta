@@ -1,112 +1,112 @@
 fileFormatVersion: 2
-guid: 000ffe5c094f3714e85974e8200b0890
+guid: a04e0cdb97c5b534dba94418c4ff91f3
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8598631743318598010
-    second: PersonajePrincipal_0
+      213: 4035084752924885121
+    second: PersonajePrincipal 1_0
   - first:
-      213: 3405478874315676294
-    second: PersonajePrincipal_1
+      213: -6589010072637554440
+    second: PersonajePrincipal 1_1
   - first:
-      213: -5819805103127728455
-    second: PersonajePrincipal_2
+      213: -4155550091251385478
+    second: PersonajePrincipal 1_2
   - first:
-      213: -6180992822369643241
-    second: PersonajePrincipal_3
+      213: -4717005671834505156
+    second: PersonajePrincipal 1_3
   - first:
-      213: -2921820088312043888
-    second: PersonajePrincipal_4
+      213: -8224867628192133560
+    second: PersonajePrincipal 1_4
   - first:
-      213: -1355180519191718828
-    second: PersonajePrincipal_5
+      213: -1016254626455722098
+    second: PersonajePrincipal 1_5
   - first:
-      213: 2061877103618641879
-    second: PersonajePrincipal_6
+      213: 3691116989685773832
+    second: PersonajePrincipal 1_6
   - first:
-      213: -7132393712296196021
-    second: PersonajePrincipal_7
+      213: 2411931097637120087
+    second: PersonajePrincipal 1_7
   - first:
-      213: 739862257062289216
-    second: PersonajePrincipal_8
+      213: -3431738051164093083
+    second: PersonajePrincipal 1_8
   - first:
-      213: 6062424063782929294
-    second: PersonajePrincipal_9
+      213: -1954789021423711430
+    second: PersonajePrincipal 1_9
   - first:
-      213: -3332112390692924263
-    second: PersonajePrincipal_10
+      213: 265667061605415658
+    second: PersonajePrincipal 1_10
   - first:
-      213: 1676032154452855136
-    second: PersonajePrincipal_11
+      213: -518613119232264294
+    second: PersonajePrincipal 1_11
   - first:
-      213: -2899946231506225794
-    second: PersonajePrincipal_12
+      213: 2981800730565232920
+    second: PersonajePrincipal 1_12
   - first:
-      213: -2059448521644425881
-    second: PersonajePrincipal_13
+      213: -398437620284823234
+    second: PersonajePrincipal 1_13
   - first:
-      213: -4286284105500516747
-    second: PersonajePrincipal_14
+      213: -4538003223101663478
+    second: PersonajePrincipal 1_14
   - first:
-      213: 3339569317024431196
-    second: PersonajePrincipal_15
+      213: 7651748728222957906
+    second: PersonajePrincipal 1_15
   - first:
-      213: 9078504833805370118
-    second: PersonajePrincipal_16
+      213: -9211276668907851408
+    second: PersonajePrincipal 1_16
   - first:
-      213: 1795688876728822002
-    second: PersonajePrincipal_17
+      213: 5237772172844097977
+    second: PersonajePrincipal 1_17
   - first:
-      213: 1784122318731395697
-    second: PersonajePrincipal_18
+      213: 7861806160530934479
+    second: PersonajePrincipal 1_18
   - first:
-      213: 4902584313181770384
-    second: PersonajePrincipal_19
+      213: -7424511386522730205
+    second: PersonajePrincipal 1_19
   - first:
-      213: -4521792694245444799
-    second: PersonajePrincipal_20
+      213: -6259406557991633988
+    second: PersonajePrincipal 1_20
   - first:
-      213: 1711998165280230047
-    second: PersonajePrincipal_21
+      213: 7921834429826088942
+    second: PersonajePrincipal 1_21
   - first:
-      213: -1604688168228119471
-    second: PersonajePrincipal_22
+      213: -1800311201749312691
+    second: PersonajePrincipal 1_22
   - first:
-      213: 4191834588865102598
-    second: PersonajePrincipal_23
+      213: 5980228547377370943
+    second: PersonajePrincipal 1_23
   - first:
-      213: -4162965575671457228
-    second: PersonajePrincipal_24
+      213: 6812515862647402880
+    second: PersonajePrincipal 1_24
   - first:
-      213: -5468212695602387396
-    second: PersonajePrincipal_25
+      213: -1275903313461993034
+    second: PersonajePrincipal 1_25
   - first:
-      213: -715215051406064957
-    second: PersonajePrincipal_26
+      213: -3694590992289839182
+    second: PersonajePrincipal 1_26
   - first:
-      213: -468186870727348280
-    second: PersonajePrincipal_27
+      213: 2504332223131324993
+    second: PersonajePrincipal 1_27
   - first:
-      213: 3798024481705346505
-    second: PersonajePrincipal_28
+      213: 7124904365810099068
+    second: PersonajePrincipal 1_28
   - first:
-      213: 1931902339900186486
-    second: PersonajePrincipal_29
+      213: 2207733481471893107
+    second: PersonajePrincipal 1_29
   - first:
-      213: -301650686231782460
-    second: PersonajePrincipal_30
+      213: 509513397238341778
+    second: PersonajePrincipal 1_30
   - first:
-      213: 8255929858310223398
-    second: PersonajePrincipal_31
+      213: 5417571791123653634
+    second: PersonajePrincipal 1_31
   - first:
-      213: 7308911561174518932
-    second: PersonajePrincipal_32
+      213: -1001589619562870554
+    second: PersonajePrincipal 1_32
   - first:
-      213: -3158579192007815035
-    second: PersonajePrincipal_33
+      213: 7777267622707194902
+    second: PersonajePrincipal 1_33
   - first:
-      213: 5698998389978122533
-    second: PersonajePrincipal_34
+      213: -1790701772202488240
+    second: PersonajePrincipal 1_34
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -202,793 +202,771 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: PersonajePrincipal_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7127e6530a745770800000000000000
-      internalID: 8598631743318598010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_1
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 68adea14ef0b24f20800000000000000
-      internalID: 3405478874315676294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_2
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9bee016e716eb3fa0800000000000000
-      internalID: -5819805103127728455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_3
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7151b6fb6c3b83aa0800000000000000
-      internalID: -6180992822369643241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_4
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0966f823c1c9377d0800000000000000
-      internalID: -2921820088312043888
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4545c037f7e613de0800000000000000
-      internalID: -1355180519191718828
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_6
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7df43bb2d424d9c10800000000000000
-      internalID: 2061877103618641879
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_7
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b480b5c25b5a40d90800000000000000
-      internalID: -7132393712296196021
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_8
-      rect:
-        serializedVersion: 2
-        x: 512
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04f9ae68dc4844a00800000000000000
-      internalID: 739862257062289216
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_9
-      rect:
-        serializedVersion: 2
-        x: 576
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e83cf8fd09e022450800000000000000
-      internalID: 6062424063782929294
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_10
-      rect:
-        serializedVersion: 2
-        x: 640
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99412195f65f1c1d0800000000000000
-      internalID: -3332112390692924263
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_11
-      rect:
-        serializedVersion: 2
-        x: 704
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0698b4e4d56724710800000000000000
-      internalID: 1676032154452855136
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_12
-      rect:
-        serializedVersion: 2
-        x: 768
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e75b65b544251c7d0800000000000000
-      internalID: -2899946231506225794
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_13
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76d3e222b7e5b63e0800000000000000
-      internalID: -2059448521644425881
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_14
-      rect:
-        serializedVersion: 2
-        x: 896
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 57e1d35d05f0484c0800000000000000
-      internalID: -4286284105500516747
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_15
-      rect:
-        serializedVersion: 2
-        x: 960
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c5cf80c9998885e20800000000000000
-      internalID: 3339569317024431196
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_16
-      rect:
-        serializedVersion: 2
-        x: 1024
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 603c2aedb045dfd70800000000000000
-      internalID: 9078504833805370118
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_17
-      rect:
-        serializedVersion: 2
-        x: 1088
-        y: 64
-        width: 64
-        height: 64
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2f8aa88f4819be810800000000000000
-      internalID: 1795688876728822002
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: PersonajePrincipal_18
+      name: PersonajePrincipal 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 64
-        height: 64
+        width: 57
+        height: 128
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 172c4d3dbc972c810800000000000000
-      internalID: 1784122318731395697
+      spriteID: 180cea834308ff730800000000000000
+      internalID: 4035084752924885121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_19
+      name: PersonajePrincipal 1_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 63
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0921a94357a790440800000000000000
-      internalID: 4902584313181770384
+      spriteID: 8f0c7febf322f84a0800000000000000
+      internalID: -6589010072637554440
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_20
+      name: PersonajePrincipal 1_2
       rect:
         serializedVersion: 2
-        x: 128
-        y: 0
-        width: 64
-        height: 64
+        x: 131
+        y: 63
+        width: 50
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1433b87808d5f31c0800000000000000
-      internalID: -4521792694245444799
+      spriteID: a7b7e9485358456c0800000000000000
+      internalID: -4155550091251385478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_21
+      name: PersonajePrincipal 1_3
       rect:
         serializedVersion: 2
-        x: 192
-        y: 0
-        width: 64
-        height: 64
+        x: 191
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f9a06a1c24d32c710800000000000000
-      internalID: 1711998165280230047
+      spriteID: c303dce4554d98eb0800000000000000
+      internalID: -4717005671834505156
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_22
+      name: PersonajePrincipal 1_4
       rect:
         serializedVersion: 2
-        x: 256
-        y: 0
-        width: 64
-        height: 64
+        x: 255
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15c9d7dec900bb9e0800000000000000
-      internalID: -1604688168228119471
+      spriteID: 84e8ff828766bdd80800000000000000
+      internalID: -8224867628192133560
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_23
+      name: PersonajePrincipal 1_5
       rect:
         serializedVersion: 2
-        x: 320
-        y: 0
-        width: 64
-        height: 64
+        x: 323
+        y: 63
+        width: 50
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 603008a69536c2a30800000000000000
-      internalID: 4191834588865102598
+      spriteID: e8762c43dc985e1f0800000000000000
+      internalID: -1016254626455722098
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_24
+      name: PersonajePrincipal 1_6
       rect:
         serializedVersion: 2
-        x: 384
-        y: 0
-        width: 64
-        height: 64
+        x: 383
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 43a5ce18ddc2a36c0800000000000000
-      internalID: -4162965575671457228
+      spriteID: 80631a2885b793330800000000000000
+      internalID: 3691116989685773832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_25
+      name: PersonajePrincipal 1_7
       rect:
         serializedVersion: 2
-        x: 448
-        y: 0
-        width: 64
-        height: 64
+        x: 447
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c36a65276810d14b0800000000000000
-      internalID: -5468212695602387396
+      spriteID: 758e069ed86e87120800000000000000
+      internalID: 2411931097637120087
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_26
+      name: PersonajePrincipal 1_8
       rect:
         serializedVersion: 2
-        x: 512
-        y: 0
-        width: 64
-        height: 64
+        x: 515
+        y: 63
+        width: 50
+        height: 58
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3c2cdea33bb0316f0800000000000000
-      internalID: -715215051406064957
+      spriteID: 5654c22bc640060d0800000000000000
+      internalID: -3431738051164093083
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_27
+      name: PersonajePrincipal 1_9
       rect:
         serializedVersion: 2
-        x: 576
-        y: 0
-        width: 64
-        height: 64
+        x: 575
+        y: 63
+        width: 54
+        height: 58
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 8cf6bc9858aa089f0800000000000000
-      internalID: -468186870727348280
+      spriteID: a3bc43fedb13fd4e0800000000000000
+      internalID: -1954789021423711430
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_28
+      name: PersonajePrincipal 1_10
       rect:
         serializedVersion: 2
-        x: 640
-        y: 0
-        width: 64
-        height: 64
+        x: 639
+        y: 63
+        width: 54
+        height: 58
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9c5c840b42b45b430800000000000000
-      internalID: 3798024481705346505
+      spriteID: aea3383f8c6dfa300800000000000000
+      internalID: 265667061605415658
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_29
+      name: PersonajePrincipal 1_11
       rect:
         serializedVersion: 2
-        x: 704
-        y: 0
-        width: 64
-        height: 64
+        x: 707
+        y: 63
+        width: 50
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 67f1f7641fe7fca10800000000000000
-      internalID: 1931902339900186486
+      spriteID: a97bd44ad148dc8f0800000000000000
+      internalID: -518613119232264294
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_30
+      name: PersonajePrincipal 1_12
       rect:
         serializedVersion: 2
-        x: 768
-        y: 0
-        width: 64
-        height: 64
+        x: 767
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 4cbd6e09c4250dbf0800000000000000
-      internalID: -301650686231782460
+      spriteID: 819475857fb716920800000000000000
+      internalID: 2981800730565232920
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_31
+      name: PersonajePrincipal 1_13
       rect:
         serializedVersion: 2
-        x: 832
-        y: 0
-        width: 64
-        height: 64
+        x: 831
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6263f1fd674f29270800000000000000
-      internalID: 8255929858310223398
+      spriteID: e3965c96817787af0800000000000000
+      internalID: -398437620284823234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_32
+      name: PersonajePrincipal 1_14
       rect:
         serializedVersion: 2
-        x: 896
-        y: 0
-        width: 64
-        height: 64
+        x: 899
+        y: 63
+        width: 50
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49c8d8237587e6560800000000000000
-      internalID: 7308911561174518932
+      spriteID: a079279ac16c501c0800000000000000
+      internalID: -4538003223101663478
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_33
+      name: PersonajePrincipal 1_15
       rect:
         serializedVersion: 2
-        x: 960
-        y: 0
-        width: 64
-        height: 64
+        x: 959
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5801f61b5f87a24d0800000000000000
-      internalID: -3158579192007815035
+      spriteID: 251c6487de8703a60800000000000000
+      internalID: 7651748728222957906
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_34
+      name: PersonajePrincipal 1_16
       rect:
         serializedVersion: 2
-        x: 1024
-        y: 0
-        width: 64
-        height: 64
+        x: 1023
+        y: 63
+        width: 54
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5294b2257d8e61f40800000000000000
-      internalID: 5698998389978122533
+      spriteID: 07177ed4ca8fa2080800000000000000
+      internalID: -9211276668907851408
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PersonajePrincipal_35
+      name: PersonajePrincipal 1_17
       rect:
         serializedVersion: 2
-        x: 1088
-        y: 0
-        width: 64
-        height: 64
+        x: 1091
+        y: 63
+        width: 49
+        height: 62
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 842f9d8bcfee38247919afb4121021c0
-      internalID: -1223028202
+      spriteID: 9b16cc05a0e40b840800000000000000
+      internalID: 5237772172844097977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_18
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca8c63ac0fba1d60800000000000000
+      internalID: 7861806160530934479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321487f0b36d6f890800000000000000
+      internalID: -7424511386522730205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb782636ee1229a0800000000000000
+      internalID: -6259406557991633988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_21
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef3e37317200fd60800000000000000
+      internalID: 7921834429826088942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_22
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b539e10820407e0800000000000000
+      internalID: -1800311201749312691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_23
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f371412ed2a0ef250800000000000000
+      internalID: 5980228547377370943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_24
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081ffc3351bea8e50800000000000000
+      internalID: 6812515862647402880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_25
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 0
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1aa5942b41b4ee0800000000000000
+      internalID: -1275903313461993034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7c43a311d2abcc0800000000000000
+      internalID: -3694590992289839182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 0
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1429e4f63ec21c220800000000000000
+      internalID: 2504332223131324993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_28
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 0
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73adb675ceb0e260800000000000000
+      internalID: 7124904365810099068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_29
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e5ed187e173ae10800000000000000
+      internalID: 2207733481471893107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_30
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290a1ba3cb7221700800000000000000
+      internalID: 509513397238341778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 0
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042a1b27d41f2b40800000000000000
+      internalID: 5417571791123653634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_32
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e88c333c83a912f0800000000000000
+      internalID: -1001589619562870554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_33
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 0
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ceb9672b76eeb60800000000000000
+      internalID: 7777267622707194902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PersonajePrincipal 1_34
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 0
+        width: 49
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e4539c9362627e0800000000000000
+      internalID: -1790701772202488240
       vertices: []
       indices: 
       edges: []
@@ -997,7 +975,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: b4ff4c881fa37cc4db0cd390a3f15617
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -1005,48 +983,43 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceOnImport
-        value: True
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":true,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      PersonajePrincipal_0: 8598631743318598010
-      PersonajePrincipal_1: 3405478874315676294
-      PersonajePrincipal_10: -3332112390692924263
-      PersonajePrincipal_11: 1676032154452855136
-      PersonajePrincipal_12: -2899946231506225794
-      PersonajePrincipal_13: -2059448521644425881
-      PersonajePrincipal_14: -4286284105500516747
-      PersonajePrincipal_15: 3339569317024431196
-      PersonajePrincipal_16: 9078504833805370118
-      PersonajePrincipal_17: 1795688876728822002
-      PersonajePrincipal_18: 1784122318731395697
-      PersonajePrincipal_19: 4902584313181770384
-      PersonajePrincipal_2: -5819805103127728455
-      PersonajePrincipal_20: -4521792694245444799
-      PersonajePrincipal_21: 1711998165280230047
-      PersonajePrincipal_22: -1604688168228119471
-      PersonajePrincipal_23: 4191834588865102598
-      PersonajePrincipal_24: -4162965575671457228
-      PersonajePrincipal_25: -5468212695602387396
-      PersonajePrincipal_26: -715215051406064957
-      PersonajePrincipal_27: -468186870727348280
-      PersonajePrincipal_28: 3798024481705346505
-      PersonajePrincipal_29: 1931902339900186486
-      PersonajePrincipal_3: -6180992822369643241
-      PersonajePrincipal_30: -301650686231782460
-      PersonajePrincipal_31: 8255929858310223398
-      PersonajePrincipal_32: 7308911561174518932
-      PersonajePrincipal_33: -3158579192007815035
-      PersonajePrincipal_34: 5698998389978122533
-      PersonajePrincipal_35: -1223028202
-      PersonajePrincipal_4: -2921820088312043888
-      PersonajePrincipal_5: -1355180519191718828
-      PersonajePrincipal_6: 2061877103618641879
-      PersonajePrincipal_7: -7132393712296196021
-      PersonajePrincipal_8: 739862257062289216
-      PersonajePrincipal_9: 6062424063782929294
+      PersonajePrincipal 1_0: 4035084752924885121
+      PersonajePrincipal 1_1: -6589010072637554440
+      PersonajePrincipal 1_10: 265667061605415658
+      PersonajePrincipal 1_11: -518613119232264294
+      PersonajePrincipal 1_12: 2981800730565232920
+      PersonajePrincipal 1_13: -398437620284823234
+      PersonajePrincipal 1_14: -4538003223101663478
+      PersonajePrincipal 1_15: 7651748728222957906
+      PersonajePrincipal 1_16: -9211276668907851408
+      PersonajePrincipal 1_17: 5237772172844097977
+      PersonajePrincipal 1_18: 7861806160530934479
+      PersonajePrincipal 1_19: -7424511386522730205
+      PersonajePrincipal 1_2: -4155550091251385478
+      PersonajePrincipal 1_20: -6259406557991633988
+      PersonajePrincipal 1_21: 7921834429826088942
+      PersonajePrincipal 1_22: -1800311201749312691
+      PersonajePrincipal 1_23: 5980228547377370943
+      PersonajePrincipal 1_24: 6812515862647402880
+      PersonajePrincipal 1_25: -1275903313461993034
+      PersonajePrincipal 1_26: -3694590992289839182
+      PersonajePrincipal 1_27: 2504332223131324993
+      PersonajePrincipal 1_28: 7124904365810099068
+      PersonajePrincipal 1_29: 2207733481471893107
+      PersonajePrincipal 1_3: -4717005671834505156
+      PersonajePrincipal 1_30: 509513397238341778
+      PersonajePrincipal 1_31: 5417571791123653634
+      PersonajePrincipal 1_32: -1001589619562870554
+      PersonajePrincipal 1_33: 7777267622707194902
+      PersonajePrincipal 1_34: -1790701772202488240
+      PersonajePrincipal 1_4: -8224867628192133560
+      PersonajePrincipal 1_5: -1016254626455722098
+      PersonajePrincipal 1_6: 3691116989685773832
+      PersonajePrincipal 1_7: 2411931097637120087
+      PersonajePrincipal 1_8: -3431738051164093083
+      PersonajePrincipal 1_9: -1954789021423711430
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
