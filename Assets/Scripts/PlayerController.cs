@@ -27,19 +27,18 @@ public class PlayerController : MonoBehaviour
     {
         ReadMovementKeys();
 
-        // Si se está presionando alguna tecla de movimiento
+     
         if (directionX != 0 || directionY != 0)
         {
-            // Actualizamos la dirección en el Blend Tree (para cuando vuelva a caminar)
+            
             animator.SetFloat(DirectionXHash, directionX);
             animator.SetFloat(DirectionYHash, directionY);
 
-            // Le decimos al Animator que se está moviendo
+            
             animator.SetBool(IsMovingHash, true);
         }
         else
         {
-            // Si no se presiona nada, detenemos la animación de caminar
             animator.SetBool(IsMovingHash, false);
         }
     }
