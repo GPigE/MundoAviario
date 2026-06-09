@@ -1,32 +1,54 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
-[RequireComponent(typeof(Animator))]
 
+[RequireComponent(typeof(Animator))]
 [RequireComponent(typeof(Rigidbody2D))]
 public class PlayerController : MonoBehaviour
 {
     private static readonly int DirectionYHash = Animator.StringToHash("directionY");
     private static readonly int DirectionXHash = Animator.StringToHash("directionX");
+    private static readonly int IsMovingHash = Animator.StringToHash("isMoving"); // <--- Nuevo hash
+
+    public float speed = 2f;
     public static float directionX = 0;
     public static float directionY = 0;
-    public static float sprintMod = 2;
+    public static float sprintMod = 1;
+
     private Animator animator;
     private Rigidbody2D rb2d;
+
     void Start()
     {
         animator = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
     }
+
     void Update()
     {
         ReadMovementKeys();
-        animator.SetFloat(DirectionXHash, directionX);
-        animator.SetFloat(DirectionYHash, directionY);
+
+        // Si se está presionando alguna tecla de movimiento
+        if (directionX != 0 || directionY != 0)
+        {
+            // Actualizamos la dirección en el Blend Tree (para cuando vuelva a caminar)
+            animator.SetFloat(DirectionXHash, directionX);
+            animator.SetFloat(DirectionYHash, directionY);
+
+            // Le decimos al Animator que se está moviendo
+            animator.SetBool(IsMovingHash, true);
+        }
+        else
+        {
+            // Si no se presiona nada, detenemos la animación de caminar
+            animator.SetBool(IsMovingHash, false);
+        }
     }
+
     void FixedUpdate()
     {
         MovePlayer();
     }
+
     private static void ReadMovementKeys()
     {
         var kb = Keyboard.current;
@@ -45,8 +67,10 @@ public class PlayerController : MonoBehaviour
         if (kb.leftShiftKey.wasPressedThisFrame) sprintMod = 2;
         else if (kb.leftShiftKey.wasReleasedThisFrame) sprintMod = 1;
     }
+
     private void MovePlayer()
     {
-        rb2d.linearVelocity = new Vector2(directionX * 2 * sprintMod, directionY * 2 * sprintMod);
+        Vector2 movement = new Vector2(directionX, directionY).normalized;
+        rb2d.linearVelocity = movement * speed * sprintMod;
     }
 }

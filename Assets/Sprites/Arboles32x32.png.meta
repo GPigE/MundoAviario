@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 3e08d4ba64c342843b2b5a837383c140
+guid: 1a91969c64ab2b04f8683e58eaa48caf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6056777479484082254
-    second: Mapa4_0
+      213: -8374286571063852185
+    second: Arboles32x32_0
+  - first:
+      213: -325035567243972231
+    second: Arboles32x32_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -178,23 +181,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mapa4_0
+      name: Arboles32x32_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 640
-        height: 360
+        x: 24
+        y: 132
+        width: 92
+        height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2b7f3cbf8f002fba0800000000000000
-      internalID: -6056777479484082254
+      spriteID: 7634a648bbe88cb80800000000000000
+      internalID: -8374286571063852185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arboles32x32_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 92
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9713e0bafdd3d7bf0800000000000000
+      internalID: -325035567243972231
       vertices: []
       indices: 
       edges: []
@@ -203,7 +228,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: fe1eff08882aa3e4e8f091a1d53b8af6
     internalID: 0
     vertices: []
     indices: 
@@ -211,9 +236,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
-      Mapa4_0: -6056777479484082254
+      Arboles32x32_0: -8374286571063852185
+      Arboles32x32_1: -325035567243972231
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
