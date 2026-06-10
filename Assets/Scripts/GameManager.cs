@@ -1,9 +1,12 @@
+using System;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
     public static GameManager Instance { get; private set; }
     public bool PlayerHasKey = false;
+    [SerializeField] private GameObject KeyIndicator;
     void Awake()
     {
         VerifySingleton();
@@ -25,5 +28,10 @@ public class GameManager : MonoBehaviour
     public void WinLevel()
     {
         Debug.Log("ganaste :D!!!!!");
+    }
+    public void GrantKey()
+    {
+        Instance.PlayerHasKey = true;
+        KeyIndicator.SetActive(true);
     }
 }
