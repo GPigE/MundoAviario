@@ -14,6 +14,8 @@ public class PlayerController : MonoBehaviour
     public static float directionY = 0;
     public static float sprintMod = 1;
 
+    public static bool canMove = true;
+
     private Animator animator;
     private Rigidbody2D rb2d;
 
@@ -21,6 +23,10 @@ public class PlayerController : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb2d = GetComponent<Rigidbody2D>();
+        canMove = true;
+        directionX = 0;
+        directionY = 0;
+        sprintMod = 1;
     }
 
     void Update()
@@ -46,6 +52,14 @@ public class PlayerController : MonoBehaviour
 
     private static void ReadMovementKeys()
     {
+        if (!canMove)
+        {
+            directionX = 0;
+            directionY = 0;
+            sprintMod = 1;
+            return;
+        }
+
         var kb = Keyboard.current;
         if (kb == null) return;
 

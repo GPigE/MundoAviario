@@ -12,6 +12,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject PantallaGanador;
     [SerializeField] private GameObject PantallaPerdedor;
     [SerializeField] private GameObject BotonMenuPrincipal;
+    [SerializeField] private GameObject PantallaPausa;
 
     void Awake()
     {
@@ -21,10 +22,12 @@ public class GameManager : MonoBehaviour
         PantallaGanador = GameObject.FindGameObjectWithTag("PantallaGanador");
         PantallaPerdedor = GameObject.FindGameObjectWithTag("PantallaPerdedor");
         BotonMenuPrincipal = GameObject.FindGameObjectWithTag("BotonMenuPrincipal");
+        PantallaPausa = GameObject.FindGameObjectWithTag("PantallaPausa");
 
         PantallaGanador.SetActive(false);
         PantallaPerdedor.SetActive(false);
         BotonMenuPrincipal.SetActive(false);
+        PantallaPausa.SetActive(false);
     }
     public void NoKeyAlert()
     {
@@ -50,5 +53,15 @@ public class GameManager : MonoBehaviour
     public void LeaveScene()
     {
         SceneManager.LoadScene("MenuPrincipal");
+    }
+    public void PausarJuego()
+    {
+        PantallaPausa.SetActive(true);
+        PlayerController.canMove = false;
+    }
+    public void RenaudarJuego()
+    {
+        PantallaPausa.SetActive(false);
+        PlayerController.canMove = true;
     }
 }
