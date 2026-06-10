@@ -1,28 +1,10 @@
 fileFormatVersion: 2
-guid: 85ccfa70a39f1e3498759814dc9547eb
+guid: 3a79af890db9e5f43a1bbfe585ff50ce
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8445491357345682370
-    second: LlaveAnimacion16x16_0
-  - first:
-      213: 8296479001628279662
-    second: LlaveAnimacion16x16_1
-  - first:
-      213: 579785905367992041
-    second: LlaveAnimacion16x16_2
-  - first:
-      213: 7265377631943245442
-    second: LlaveAnimacion16x16_3
-  - first:
-      213: 7458838964603842363
-    second: LlaveAnimacion16x16_4
-  - first:
-      213: -4113189099115768737
-    second: LlaveAnimacion16x16_5
-  - first:
-      213: -4199983578493221240
-    second: LlaveAnimacion16x16_6
+      213: 6133248838182761789
+    second: LlaveRecoger_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -196,79 +178,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LlaveAnimacion16x16_0
+      name: LlaveRecoger_0
       rect:
         serializedVersion: 2
-        x: 9
-        y: 15
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c39834b4a9643570800000000000000
-      internalID: 8445491357345682370
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LlaveAnimacion16x16_1
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 9
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e638a8202b3032370800000000000000
-      internalID: 8296479001628279662
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LlaveAnimacion16x16_2
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 5
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9e6cc378530db0800800000000000000
-      internalID: 579785905367992041
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LlaveAnimacion16x16_3
-      rect:
-        serializedVersion: 2
-        x: 109
+        x: 3
         y: 1
-        width: 8
-        height: 16
+        width: 10
+        height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -277,74 +193,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 28ebb0f667ec3d460800000000000000
-      internalID: 7265377631943245442
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LlaveAnimacion16x16_4
-      rect:
-        serializedVersion: 2
-        x: 141
-        y: 3
-        width: 8
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3fed0a058e138760800000000000000
-      internalID: 7458838964603842363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LlaveAnimacion16x16_5
-      rect:
-        serializedVersion: 2
-        x: 171
-        y: 5
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f5412359e440be6c0800000000000000
-      internalID: -4113189099115768737
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: LlaveAnimacion16x16_6
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 1
-        width: 8
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 88600751039a6b5c0800000000000000
-      internalID: -4199983578493221240
+      spriteID: d35f5fea25dad1550800000000000000
+      internalID: 6133248838182761789
       vertices: []
       indices: 
       edges: []
@@ -363,13 +213,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      LlaveAnimacion16x16_0: 8445491357345682370
-      LlaveAnimacion16x16_1: 8296479001628279662
-      LlaveAnimacion16x16_2: 579785905367992041
-      LlaveAnimacion16x16_3: 7265377631943245442
-      LlaveAnimacion16x16_4: 7458838964603842363
-      LlaveAnimacion16x16_5: -4113189099115768737
-      LlaveAnimacion16x16_6: -4199983578493221240
+      LlaveRecoger_0: 6133248838182761789
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
