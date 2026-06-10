@@ -9,8 +9,10 @@ TagManager:
   - KeyIndicator
   - PantallaGanador
   - PantallaPerdedor
-  - BotonMenuPrincipal
   - PantallaPausa
+  - Timer
+  - BotonRegresar
+  - BotonContinuar
   layers:
   - Default
   - TransparentFX

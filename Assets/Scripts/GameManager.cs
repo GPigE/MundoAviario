@@ -1,6 +1,9 @@
 using System;
 using NUnit.Framework;
+using TMPro;
+using Unity.Mathematics;
 using Unity.VisualScripting;
+using UnityEditor.Rendering.Universal;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -11,23 +14,46 @@ public class GameManager : MonoBehaviour
     [SerializeField] private GameObject KeyIndicator;
     [SerializeField] private GameObject PantallaGanador;
     [SerializeField] private GameObject PantallaPerdedor;
-    [SerializeField] private GameObject BotonMenuPrincipal;
+    [SerializeField] private GameObject BotonRegresar;
+    [SerializeField] private GameObject BotonContinuar;
     [SerializeField] private GameObject PantallaPausa;
+    [SerializeField] private GameObject Timer;
+    public static bool IsGameOver = false;
+    private TextMeshProUGUI timertmp;
+    public float SecsTillLose = 50;
 
     void Awake()
     {
+        IsGameOver = false;
         Instance = this;
 
         KeyIndicator = GameObject.FindGameObjectWithTag("KeyIndicator");
         PantallaGanador = GameObject.FindGameObjectWithTag("PantallaGanador");
         PantallaPerdedor = GameObject.FindGameObjectWithTag("PantallaPerdedor");
-        BotonMenuPrincipal = GameObject.FindGameObjectWithTag("BotonMenuPrincipal");
+        BotonContinuar = GameObject.FindGameObjectWithTag("BotonContinuar");
+        BotonRegresar = GameObject.FindGameObjectWithTag("BotonRegresar");
         PantallaPausa = GameObject.FindGameObjectWithTag("PantallaPausa");
+        Timer = GameObject.FindGameObjectWithTag("Timer");
+
+        timertmp = Timer.GetComponent<TextMeshProUGUI>();
 
         PantallaGanador.SetActive(false);
         PantallaPerdedor.SetActive(false);
-        BotonMenuPrincipal.SetActive(false);
+        BotonContinuar.SetActive(false);
+        BotonRegresar.SetActive(false);
         PantallaPausa.SetActive(false);
+    }
+    void Start()
+    {
+        SecsTillLose = 30;
+    }
+    void Update()
+    {
+        SecsTillLose -= Time.deltaTime;
+        timertmp.text = Math.Truncate(SecsTillLose).ToString();
+
+        if (SecsTillLose <= 0)
+            LoseLevel();
     }
     public void NoKeyAlert()
     {
@@ -35,15 +61,20 @@ public class GameManager : MonoBehaviour
     }
     public void WinLevel()
     {
+        IsGameOver = true;
         Debug.Log("ganaste :D!!!!!");
         PantallaGanador.SetActive(true);
-        BotonMenuPrincipal.SetActive(true);
+        BotonContinuar.SetActive(true);
+        BotonRegresar.SetActive(true);
     }
     public void LoseLevel()
     {
+        IsGameOver = true;
+        PlayerController.canMove = false;
         Debug.Log("perdiste w :c");
         PantallaPerdedor.SetActive(true);
-        BotonMenuPrincipal.SetActive(true);
+        BotonContinuar.SetActive(true);
+        BotonRegresar.SetActive(true);
     }
     public void GrantKey()
     {
@@ -58,10 +89,17 @@ public class GameManager : MonoBehaviour
     {
         PantallaPausa.SetActive(true);
         PlayerController.canMove = false;
+        BotonContinuar.SetActive(true);
+        BotonRegresar.SetActive(true);
     }
     public void RenaudarJuego()
     {
+        if (IsGameOver)
+            return;
+
         PantallaPausa.SetActive(false);
         PlayerController.canMove = true;
+        BotonContinuar.SetActive(false);
+        BotonRegresar.SetActive(false);
     }
 }
