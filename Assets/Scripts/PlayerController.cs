@@ -27,14 +27,14 @@ public class PlayerController : MonoBehaviour
     {
         ReadMovementKeys();
 
-     
+
         if (directionX != 0 || directionY != 0)
         {
-            
+
             animator.SetFloat(DirectionXHash, directionX);
             animator.SetFloat(DirectionYHash, directionY);
 
-            
+
             animator.SetBool(IsMovingHash, true);
         }
         else
