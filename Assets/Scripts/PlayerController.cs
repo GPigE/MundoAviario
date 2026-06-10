@@ -7,7 +7,7 @@ public class PlayerController : MonoBehaviour
 {
     private static readonly int DirectionYHash = Animator.StringToHash("directionY");
     private static readonly int DirectionXHash = Animator.StringToHash("directionX");
-    private static readonly int IsMovingHash = Animator.StringToHash("isMoving"); // <--- Nuevo hash
+    private static readonly int IsMovingHash = Animator.StringToHash("isMoving");
 
     public float speed = 2f;
     public static float directionX = 0;
@@ -27,14 +27,10 @@ public class PlayerController : MonoBehaviour
     {
         ReadMovementKeys();
 
-
         if (directionX != 0 || directionY != 0)
         {
-
             animator.SetFloat(DirectionXHash, directionX);
             animator.SetFloat(DirectionYHash, directionY);
-
-
             animator.SetBool(IsMovingHash, true);
         }
         else
